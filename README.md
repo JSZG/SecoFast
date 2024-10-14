@@ -4,6 +4,7 @@
 
 The Programming Configuration IDE software adopts a B/S (Browser/Server) architecture. The server can be deployed on a local area network server in the industrial site or directly integrated into control devices. The Runtime RTE software is loaded onto edge control devices and can be adapted to various industrial control computers, industrial gateways, and industrial control boards.
 
+![](./doc/images/introduction_zh.gif)
 # Main Feature
 * Supports initial device self-discovery
 * Programming languages supported: Ladder Diagram (LD), Function Block Diagram (FBD), Structured Text (ST), C++
