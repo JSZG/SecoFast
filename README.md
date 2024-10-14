@@ -13,7 +13,7 @@ The Programming Configuration IDE software adopts a B/S (Browser/Server) archite
 * Provides IEC standard libraries and supports custom libraries
 * Prioritized multitasking operation with monitoring of each task's running status
 * Compilation: Allows viewing of call trees and intermediate code, provides compilation result information
-* Online debugging: Supports breakpoints, single-step execution, slow execution, variable monitoring, and variable forcing, Step into, Step over, Step out
+* Online debugging: Supports breakpoints, single-step execution, slow execution, variable monitoring, and variable forcing, Step into, Step out
 * Integrated Python development and runtime environment, with access to PLC process variables
 * Provides simulation operation based on a virtual machine
 * Provides runtime diagnostic logs
