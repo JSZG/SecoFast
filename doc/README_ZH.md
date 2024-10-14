@@ -1,5 +1,6 @@
 # SecoFast
 [English](../README.md) | 中文
+
 [SecoFast](https://www.jishan-tech.com/home) 是一款自主安全、跨设备、IT-OT融合的工业边缘计算软件套件（编程配置IDE软件、运行时RTE软件）
 
 编程组态IDE软件采用B/S架构，Server可部署在工业现场局域网的服务器上，也可直接集成在控制设备中。运行时RTE软件装载在边缘控制设备中，可适配各类工控机、工业网关、工控板卡。

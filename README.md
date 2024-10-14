@@ -1,5 +1,6 @@
 # SecoFast
 [中文](./doc/README_ZH.md) | English
+
 [SecoFast](https://www.jishan-tech.com/home) is a Endogenous Security, Cross-Device, IT-OT Converged Industrial Edge Computing Software Suite (Programming Configuration IDE Software, Runtime RTE Software)
 
 The Programming Configuration IDE software adopts a B/S (Browser/Server) architecture. The server can be deployed on a local area network server in the industrial site or directly integrated into control devices. The Runtime RTE software is loaded onto edge control devices and can be adapted to various industrial control computers, industrial gateways, and industrial control boards.
