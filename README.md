@@ -8,12 +8,12 @@ The Programming Configuration IDE software adopts a B/S (Browser/Server) archite
 ![](./doc/images/introduction_zh.gif)
 # Main Feature
 * Supports initial device self-discovery
-* Programming languages supported: Ladder Diagram (LD), Function Block Diagram (FBD), Structured Text (ST), C++
+* Programming languages supported: Ladder Diagram (LD), Function Block Diagram (FBD), Structured Text (ST), C++, SFC(Squential Function Chart)
 * Supports custom data types
 * Provides IEC standard libraries and supports custom libraries
 * Prioritized multitasking operation with monitoring of each task's running status
 * Compilation: Allows viewing of call trees and intermediate code, provides compilation result information
-* Online debugging: Supports breakpoints, single-step execution, slow execution, variable monitoring, and variable forcing
+* Online debugging: Supports breakpoints, single-step execution, slow execution, variable monitoring, and variable forcing, Step into, Step over, Step out
 * Integrated Python development and runtime environment, with access to PLC process variables
 * Provides simulation operation based on a virtual machine
 * Provides runtime diagnostic logs
